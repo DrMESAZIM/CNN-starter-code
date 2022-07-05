@@ -1,9 +1,11 @@
 # CNN-starter-code
 
-In this tutorial, you will learn how to build a responsive CNN website with HTML5 and CSS3. 
+In this Youtube video tutorial, you will learn how to build a responsive CNN website with HTML5 and CSS3. 
 I will go step by step in building CNN website. You'll learn how to layout easily using Flexbox.
 Begginers tutorials for HTML and CSS.Improve your CSS skills with this latest tutorial.
 We have added Starter code link below.
+
+How to make website like CNN using HTML & CSS : https://youtu.be/zcT-JDTJ5Rs
 
 Buy me a Coffee :   https://www.buymeacoffee.com/irvinemesaz
 
