@@ -18,6 +18,14 @@ Starter code link :https://github.com/DrMESAZIM/CNN-starter-code.git
 Contents of this video  
 
 
+0:00 - Intro
+0:30 - HEADER HTML CODE 
+6:00 -TOP-HEADLINES SECTION HTML CODE
+23:17 -CATERGORIES SECTION HTML CODE
+40:00 - TAKE SECTION HTML CODE
+1:06:00 - FOOTER HTML CODE
+1:26:40 - CSS MEDIA QUERIES CODE
+
 
 Playlists links
 
